@@ -39,7 +39,7 @@ def process_and_write_literature(data, output_file):
 
 # Main script
 def main():
-    query = "Raffaelea fungi"
+    query = "Raffaelea"
     output_file = "raffaelea_literature.txt"
 
     # Fetch literature data from the GBIF API
